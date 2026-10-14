@@ -16,7 +16,7 @@
 ### Other projects
 
 - **[Gomoku](https://github.com/OxiiLB/Gomoku)**: Gomoku-playing AI in C++
-- **[Pikselite-Engine](https://github.com/OxiiLB/Pikselite-Engine)** (release link coming soon): 2D game engine inspired by Unity in C++ with Lua scripting
+- **[Pikselite-Engine](https://github.com/JsuisSayker/Pikselite)**: 2D game engine inspired by Unity in C++ with Lua scripting
 
 ### Stack
 
