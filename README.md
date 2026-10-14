@@ -16,8 +16,7 @@
 ### Other projects
 
 - **[Gomoku](https://github.com/OxiiLB/Gomoku)**: Gomoku-playing AI in C++
-- **[NanoTekSpice](https://github.com/OxiiLB/NanoTekSpice)**: logic circuit simulator in C++
-- **[MyPandoc](https://github.com/OxiiLB/MyPandoc)**: XML / JSON / Markdown converter in Haskell
+- **[Pikselite-Engine](https://github.com/OxiiLB/Pikselite-Engine)** (release link coming soon): 2D game engine inspired by Unity in C++ with Lua scripting
 
 ### Stack
 
